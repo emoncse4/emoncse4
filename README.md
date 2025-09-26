@@ -36,12 +36,12 @@ Passionate about building optimized, secure, and user-friendly solutions that al
 - Skills: Responsive web design, modern layouts, accessibility  
 
 ### ✅ Microsoft Azure Fundamentals — *Corporate Projukti Limited* (Nov 2021)  
-- Credential: [View Certificate](#)  
+- Credential: [View Certificate](https://media.licdn.com/dms/image/v2/D562DAQFLx9Wr9KYVJA/profile-treasury-document-cover-images_800/profile-treasury-document-cover-images_800/0/1727279897340?e=1759521600&v=beta&t=nus1jcQsJpE2o6NmTXXGu7x_AeOZu2LOsaM-Zh1-kRo)  
 - Skills: Microsoft Azure, cloud concepts, core services, compliance & security  
 - Validates ability to design & work with cloud-based solutions  
 
 ### ✅ Red Hat Certified System Administrator (RHCSA) — *AT Computer Solution Limited* (Jul 2021)  
-- Credential: [View Certificate](#)  
+- Credential: [View Certificate](https://media.licdn.com/dms/image/v2/D562DAQGbwaPL65fjgw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1727287192188?e=1759521600&v=beta&t=nNLecSTmwj41Hm9O5yI2NyuiU4kzP5ML6491vUW4n3k)  
 - Skills: Red Hat Linux, system administration, configuration, deployment  
 - Validates expertise in managing **Red Hat Enterprise Linux** environments  
 
