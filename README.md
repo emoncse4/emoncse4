@@ -33,19 +33,19 @@ REST/GraphQL APIs · TDD · CI/CD · Git · Docker · Design for observability &
 # 📂 Selected Case Studies
 > Each entry is short on the profile — link to the repo or case-study doc for details.
 
-### Project: **Enterprise Order API** · `github.com/yourusername/order-api`
+### Project: **Enterprise Order API** · `github.com/emoncse4/order-api`
 **Problem:** Monolithic order system with slow reports and frequent timeouts.  
 **Approach:** Rewrote core endpoints in Laravel, introduced Redis caching and background job queues, standardized API error contracts.  
 **Outcome:** Report generation time down **80%**, successful throughput increase to **50k req/day**.  
 **Tech:** Laravel · Redis · MySQL · Horizon · PHPUnit
 
-### Project: **Retail Mobile App (Flutter)** · `github.com/yourusername/retail-mobile`
+### Project: **Retail Mobile App (Flutter)** · `github.com/emoncse4/retail-mobile`
 **Problem:** No cross-platform presence; duplicate web logic and heavy native work.  
 **Approach:** Built a Flutter app sharing business logic with web via a small shared API client package.  
 **Outcome:** Single codebase for iOS/Android, accelerated release cadence by **60%**.  
 **Tech:** Flutter · Provider · REST API · Firebase (analytics)
 
-### Project: **Open Source CLI Tool** · `github.com/yourusername/cli-tool`
+### Project: **Open Source CLI Tool** · `github.com/emoncse4/cli-tool`
 **Problem:** Repetitive developer tasks left manual.  
 **Approach:** Created a small CLI for automated scaffolding + deploy scripts. Well documented with tests.  
 **Outcome:** Reduced onboarding time for new devs by half.  
@@ -64,7 +64,7 @@ REST/GraphQL APIs · TDD · CI/CD · Git · Docker · Design for observability &
 # ⚙️ How to run my example repos (generic)
 ```bash
 # clone
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/emoncse4/your-repo.git
 cd your-repo
 
 # backend (Laravel) quick start
