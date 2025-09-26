@@ -32,7 +32,7 @@ Passionate about building optimized, secure, and user-friendly solutions that al
 
 ## 🏅 Certifications
 ### ✅ Responsive Web Design — *freeCodeCamp* (Oct 2022)  
-- Credential: [View Certificate](#)  
+- Credential: [View Certificate](https://www.freecodecamp.org/certification/emoncse4/responsive-web-design)  
 - Skills: Responsive web design, modern layouts, accessibility  
 
 ### ✅ Microsoft Azure Fundamentals — *Corporate Projukti Limited* (Nov 2021)  
